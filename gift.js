@@ -25,7 +25,7 @@ const messages = [
 
     "...and I want to make you feel special and loved, and I will always try to do that. ❤️❤️❤️",
 
-    "I love you so much, my Woo Boo. ❤️❤️❤️💋💋💋",
+    "I love you so much, 💋💋💋 My Woo Boo. ❤️❤️❤️",
 
     "Wait... I still have something to tell you... actually, something to show you... 😳",
 
@@ -38,11 +38,11 @@ const delays = [
     2000,
     3000,
     7000,
+    60000,
+    2000,
     6000,
-    2000,
-    5000,
+    3000,
     4000,
-    2000,
     3000,
     2000
 ];
