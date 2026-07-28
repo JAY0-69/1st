@@ -124,27 +124,27 @@ const closePopup = document.getElementById("closePopup");
 
 const memories = [
     {
-        photo: "../Photos/photo1.jpg",
+        photo: "photo1.jpg",
         title: "Where it started ❤️",
         text: "I know i am not perfect..."
     },
     {
-        photo: "../Photos/photo2.jpg",
+        photo: "photo2.jpg",
         title: "Remember this...?",
         text: "but i pray to god..."
     },
     {
-        photo: "../Photos/photo3.jpg",
+        photo: "photo3.jpg",
         title: "A special moment",
         text: "to make me goood person for my wooo booo..."
     },
     {
-        photo: "../Photos/photo4.jpg",
+        photo: "photo4.jpg",
         title: "One of my favourite photos.",
         text: "and this journey is proof that we'll be together..."
     },
     {
-        photo: "../Photos/photo5.jpg",
+        photo: "photo5.jpg",
         title: "Where we are now ❤️",
         text: "no metter what cause... I Love U WOOOBOOO and u do tooo...❤️❤️❤️"
     }
